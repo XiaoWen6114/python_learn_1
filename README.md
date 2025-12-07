@@ -1,2 +1,2 @@
-## For someone's homework
-## Update won't be frequent.
+## Record a group homework of Python class
+####Idk which version of Python3 and selenium model can run this code well but maybe educoder can?(
