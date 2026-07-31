@@ -1,2 +1,3 @@
 ## Record a group homework of Python class
-####Idk which version of Python3 and selenium model can run this code well but maybe educoder can?(
+#### I forgot which version of selenium model can run properly...\(maybe [Educoder](educoder.net) can?\)
+#### Just for homework.
